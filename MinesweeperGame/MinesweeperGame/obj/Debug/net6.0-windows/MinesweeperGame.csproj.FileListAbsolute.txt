@@ -1,0 +1,17 @@
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net6.0-windows\MinesweeperGame.exe
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net6.0-windows\MinesweeperGame.deps.json
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net6.0-windows\MinesweeperGame.runtimeconfig.json
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net6.0-windows\MinesweeperGame.dll
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\bin\Debug\net6.0-windows\MinesweeperGame.pdb
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.Form1.resources
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.csproj.GenerateResource.cache
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.AssemblyInfoInputs.cache
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.AssemblyInfo.cs
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.dll
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\refint\MinesweeperGame.dll
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.pdb
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\MinesweeperGame.genruntimeconfig.cache
+C:\Users\Mohammad\source\repos\MinesweeperGame\MinesweeperGame\obj\Debug\net6.0-windows\ref\MinesweeperGame.dll
